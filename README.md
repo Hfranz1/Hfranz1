@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Hfranz1/Hfranz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have worked in health care the past five years, with world events I decided to challenge myself by going through the University of Denver's full-stack coding bootcamp. In my free time i enjoy spending time with my familly and exploring the outdoors.
+<p>
+~ 💻 Full-Stact developer certificate from University of Denver
+  </p>
+  <p>
+~ 📨 How to reach me: hannahfranz25@gmail.com
+  </p>
+<p>
+~✨Fun fact: I have two hairless cats
+</p>
